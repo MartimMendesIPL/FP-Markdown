@@ -17,4 +17,4 @@ Martim Mendes
 
 > Software Development Metodologies 2025
 
-![nomediferente](../img.png)
+![nomediferente](../imgs/img.png)
